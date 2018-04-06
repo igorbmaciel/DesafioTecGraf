@@ -1,0 +1,16 @@
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\DesafioTecGraf.Test.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\DesafioTecGraf.Test.pdb
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\DesafioTecGraf.Domain.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\DesafioTecGraf.Domain.pdb
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\obj\Debug\DesafioTecGraf.Test.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\obj\Debug\DesafioTecGraf.Test.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\obj\Debug\DesafioTecGraf.Test.csproj.CopyComplete
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\obj\Debug\DesafioTecGraf.Test.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\test\DesafioTecGraf.Test\obj\Debug\DesafioTecGraf.Test.pdb

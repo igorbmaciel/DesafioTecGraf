@@ -1,0 +1,6 @@
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\bin\Debug\DesafioTecGraf.Domain.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\bin\Debug\DesafioTecGraf.Domain.pdb
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\obj\Debug\DesafioTecGraf.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\obj\Debug\DesafioTecGraf.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\obj\Debug\DesafioTecGraf.Domain.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Domain\obj\Debug\DesafioTecGraf.Domain.pdb

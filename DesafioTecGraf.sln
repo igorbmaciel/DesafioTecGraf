@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{D649F54A-4CF3-46A4-BEED-D0FDB26EC62D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{86DC3D0B-D0C3-4F23-9DF0-D5CA795F2489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecGraf.Domain", "src\DesafioTecGraf.Domain\DesafioTecGraf.Domain.csproj", "{14DDAF26-2674-4BEE-8874-5696686B33F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecGraf.Console", "src\DesafioTecGraf.Console\DesafioTecGraf.Console.csproj", "{0513F9B1-5E5C-40F3-A09C-862ED38E703B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{F391CB2C-556E-43A3-9F78-A5DE4E43D404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTecGraf.Test", "test\DesafioTecGraf.Test\DesafioTecGraf.Test.csproj", "{2A1F5A84-CD51-4D73-B440-D8DBC190EC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DDAF26-2674-4BEE-8874-5696686B33F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DDAF26-2674-4BEE-8874-5696686B33F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DDAF26-2674-4BEE-8874-5696686B33F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DDAF26-2674-4BEE-8874-5696686B33F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0513F9B1-5E5C-40F3-A09C-862ED38E703B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0513F9B1-5E5C-40F3-A09C-862ED38E703B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0513F9B1-5E5C-40F3-A09C-862ED38E703B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0513F9B1-5E5C-40F3-A09C-862ED38E703B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A1F5A84-CD51-4D73-B440-D8DBC190EC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A1F5A84-CD51-4D73-B440-D8DBC190EC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A1F5A84-CD51-4D73-B440-D8DBC190EC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A1F5A84-CD51-4D73-B440-D8DBC190EC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14DDAF26-2674-4BEE-8874-5696686B33F7} = {D649F54A-4CF3-46A4-BEED-D0FDB26EC62D}
+		{0513F9B1-5E5C-40F3-A09C-862ED38E703B} = {86DC3D0B-D0C3-4F23-9DF0-D5CA795F2489}
+		{2A1F5A84-CD51-4D73-B440-D8DBC190EC19} = {F391CB2C-556E-43A3-9F78-A5DE4E43D404}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBC959C2-8257-4DF2-8716-A86EBB5125DA}
+	EndGlobalSection
+EndGlobal

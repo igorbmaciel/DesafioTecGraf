@@ -1,0 +1,10 @@
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\bin\Debug\DesafioTecGraf.Console.exe.config
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\bin\Debug\DesafioTecGraf.Console.exe
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\bin\Debug\DesafioTecGraf.Console.pdb
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\bin\Debug\DesafioTecGraf.Domain.dll
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\bin\Debug\DesafioTecGraf.Domain.pdb
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\obj\Debug\DesafioTecGraf.Console.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\obj\Debug\DesafioTecGraf.Console.csproj.CoreCompileInputs.cache
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\obj\Debug\DesafioTecGraf.Console.csproj.CopyComplete
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\obj\Debug\DesafioTecGraf.Console.exe
+C:\Users\Igor\Desktop\DesafioTecGraf\src\DesafioTecGraf.Console\obj\Debug\DesafioTecGraf.Console.pdb
