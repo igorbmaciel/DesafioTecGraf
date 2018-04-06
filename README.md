@@ -1,0 +1,10 @@
+-- Código desenvolvido e testado no Visual Studio 2017, utilizando o framework 4.6.1
+-- Para testar é necessário rodar o console dentro da pasta "Presentation"
+-- Os arquivos para testar estão localizados dentro do projeto em "DesafioTecGraf\src\DesafioTecGraf.Console\Arquivos"
+-- Para testar as matrículas de entrada o arquivo para ser alterado é o matriculasSemDV.txt
+-- Para testar se as matrículas estão corretas o arquivo para ser alterado é o matriculasParaVerificar.txt
+-- Para testar o resultado das matrículas de entrada com o digito o arquivo é o matriculasComDV.txt
+-- Para testar o resultado das matriculas com digito estarem corretar o arquivo é o matriculasVerificadas.txt
+-- O código se encontra na pasta "src" e os testes unitário se encontram na pasta "test" para diferenciar um do outro
+-- Foi criado um dicionário de dados com o conceito de mapReduce para ler os dados de entrado dos txt
+-- Foi deletado de todos os projetos as pastas "bin" e "obj", para não ocorrer nenhum problema ao enviar o zip
